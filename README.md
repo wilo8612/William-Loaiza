@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamloaiza/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/wilo8612)
 
-📚 am a professional in Advertising and Marketing with experience in managing manufacturing and service businesses. My interest in digital transformation has allowed me to acquire and apply hard skills such as Databases, Business Analytics, Data Visualization and Storytelling, Adobe Creative Suite, Tableau, SQL, AppSheet, Power BI, and Power Apps.
+📚 I am a professional in Advertising and Marketing with experience in managing manufacturing and service businesses. My interest in digital transformation has allowed me to acquire and apply hard skills such as Databases, Business Analytics, Data Visualization and Storytelling, Adobe Creative Suite, Tableau, SQL, AppSheet, Power BI, and Power Apps.
 
 🚛📈 Currently, I am working for Stoughton Trailers in the Continuous Improvement area, where I’ve found significant opportunities to develop solutions ranging from spreadsheets with dashboards to monitor quality metrics, to the creation of AppSheet applications for collecting production line data and integrating it with Power BI dashboards.
 
